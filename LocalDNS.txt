@@ -1,0 +1,2 @@
+Location of local DNS that resolves before any other DNS: C:\Windows\System32\drivers\etc
+
